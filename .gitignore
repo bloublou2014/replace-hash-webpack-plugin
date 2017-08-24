@@ -1,3 +1,7 @@
 node_modules
 
 npm-debug.log
+.idea/modules.xml
+.idea/replace-hash-webpack-plugin.iml
+.idea/workspace.xml
+.idea/vcs.xml
